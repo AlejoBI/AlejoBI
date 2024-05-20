@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alejandro Bravo Isajar and I'm a IT engineer, from Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Alejandro Bravo Isajar and I'm a computer engineer in process, from Colombia.</h2>
 
 ###
 
