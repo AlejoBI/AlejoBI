@@ -1,77 +1,64 @@
-<h1 align="center">Alejandro Bravo Isajar</h1>
+# Alejandro Bravo Isajar
 
-<p align="center">
-Ingeniero Informático en formación • Backend • Arquitectura de Software • Optimización
-</p>
-
----
-
-## Sobre mí
-
-Soy estudiante de Ingeniería Informática y me interesa entender a profundidad cómo funcionan las cosas, no solo usarlas. Disfruto analizar procesos, optimizar soluciones y construir software bien estructurado desde la base.
-
-Me he enfocado principalmente en el desarrollo backend, trabajando con Java, Node.js, Spring Boot y Express.js, desarrollando APIs REST e integrando bases de datos tanto relacionales como no relacionales. Más allá de la implementación, me interesa la arquitectura, la eficiencia y la escalabilidad de las soluciones.
-
-Valoro el trabajo en equipo como un espacio para aprender, aportar y construir soluciones sólidas. Creo en la comunicación clara, el pensamiento crítico y la mejora continua.
+Ingeniero Informático  
+Desarrollo backend, arquitectura de software y optimización de sistemas.
 
 ---
 
-## Tecnologías con las que trabajo
+## Perfil
 
-### Lenguajes
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-</p>
+Estudiante de Ingeniería Informática con enfoque en diseño y construcción de servicios backend robustos.  
+Trabajo principalmente con Java y Node.js, desarrollando APIs REST e integrando bases de datos relacionales y no relacionales.  
+
+Me interesa la arquitectura de software, la eficiencia de los sistemas y la construcción de soluciones escalables y mantenibles.
+
+---
+
+## Tecnologías
 
 ### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
-</p>
-
-### Bases de datos
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=java" height="32"/>
+<img src="https://skillicons.dev/icons?i=spring" height="32"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="32"/>
+<img src="https://skillicons.dev/icons?i=express" height="32"/>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=react" height="32"/>
+<img src="https://skillicons.dev/icons?i=js" height="32"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="32"/>
 </p>
 
-### Herramientas
+### Bases de Datos
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="32"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="32"/>
+</p>
+
+### DevOps y Herramientas
+<p>
+<img src="https://skillicons.dev/icons?i=docker" height="32"/>
+<img src="https://skillicons.dev/icons?i=git" height="32"/>
+<img src="https://skillicons.dev/icons?i=postman" height="32"/>
 </p>
 
 ---
 
-## Proyectos
+## Estadísticas
 
-- Software para validación de auditorías y normativas (ISO, ITIL).
-- Implementación de tienda en línea para negocio local.
-- Plataforma web para conexión entre freelancers y clientes.
-- Optimización de algoritmos aplicados a circuitos eléctricos.
-
----
-
-## Actualmente
-
-Sigo fortaleciendo mis conocimientos en arquitectura de software, optimización, prácticas DevOps y diseño de sistemas escalables.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejoBI&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoBI&layout=compact&hide_border=true&theme=default" height="150"/>
+</div>
 
 ---
 
-## Contacto
+## Enlaces
 
-🌐 Portafolio: https://alejandrobravoisajar.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/alejandrobi  
-📧 alejandrobravoisajar1@gmail.com  
-🖥 GitHub: https://github.com/AlejoBI
+GitHub: https://github.com/AlejoBI  
+LinkedIn: https://linkedin.com/in/alejandrobi  
+Portafolio: https://alejandrobravoisajar.vercel.app  
+Correo: alejandrobravoisajar1@gmail.com
