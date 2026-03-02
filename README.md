@@ -1,105 +1,77 @@
 <h1 align="center">Alejandro Bravo Isajar</h1>
-<h3 align="center">Backend Developer | Java & Spring | Reactive Systems</h3>
 
 <p align="center">
-  Building scalable backend systems with clean architecture and reactive paradigms.
+Ingeniero Informático en formación • Backend • Arquitectura de Software • Optimización
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## Sobre mí
 
-<div align="center">
+Soy estudiante de Ingeniería Informática y me interesa entender a profundidad cómo funcionan las cosas, no solo usarlas. Disfruto analizar procesos, optimizar soluciones y construir software bien estructurado desde la base.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejoBI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+Me he enfocado principalmente en el desarrollo backend, trabajando con Java, Node.js, Spring Boot y Express.js, desarrollando APIs REST e integrando bases de datos tanto relacionales como no relacionales. Más allá de la implementación, me interesa la arquitectura, la eficiencia y la escalabilidad de las soluciones.
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejoBI&theme=radical&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoBI&layout=compact&theme=radical&hide_border=true"/>
-</div>
+Valoro el trabajo en equipo como un espacio para aprender, aportar y construir soluciones sólidas. Creo en la comunicación clara, el pensamiento crítico y la mejora continua.
 
 ---
 
-## 🚀 Tech Stack
+## Tecnologías con las que trabajo
 
-### 🖥 Backend
+### Lenguajes
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
 </p>
 
-### 🌐 Frontend
+### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
 </p>
 
-### 🗄 Databases
+### Bases de datos
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35"/>
 </p>
 
-### ⚙ DevOps & Tools
+### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35"/>
+</p>
+
+### Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 </p>
 
 ---
 
-## 🧠 Core Focus
+## Proyectos
 
-- Reactive Programming with Spring WebFlux
-- Clean Architecture & SOLID Principles
-- RESTful API Design
-- Microservices Architecture
-- Non-blocking I/O Systems
-- Dockerized Environments
+- Software para validación de auditorías y normativas (ISO, ITIL).
+- Implementación de tienda en línea para negocio local.
+- Plataforma web para conexión entre freelancers y clientes.
+- Optimización de algoritmos aplicados a circuitos eléctricos.
 
 ---
 
-## ⭐ Featured Projects
+## Actualmente
 
-- 🔹 **Reactive Financial Service**  
-  Backend service built with Spring WebFlux implementing non-blocking flows.
-
-- 🔹 **ISO Evaluation Distributed Platform**  
-  Dynamic reactive forms platform with conditional JSON-driven flows.
-
-- 🔹 **Personal Portfolio**  
-  React-based portfolio deployed on Vercel.  
-  🌐 https://alejandrobravoisajar.vercel.app
+Sigo fortaleciendo mis conocimientos en arquitectura de software, optimización, prácticas DevOps y diseño de sistemas escalables.
 
 ---
 
-## 📚 Currently Learning
+## Contacto
 
-- Advanced Java Concurrency
-- Observability (Prometheus & Grafana)
-- Domain-Driven Design (DDD)
-- Event-Driven Architectures
-
----
-
-## 🌎 Connect With Me
-
-<p align="left">
-  🌐 <a href="https://alejandrobravoisajar.vercel.app">Portfolio</a><br>
-  📸 <a href="https://www.instagram.com/alejandrobravoisajar/">Instagram</a><br>
-  📧 alejandrobravoisajar1@gmail.com<br>
-  💬 Discord: @angryhappy
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
+🌐 Portafolio: https://alejandrobravoisajar.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/alejandrobi  
+📧 alejandrobravoisajar1@gmail.com  
+🖥 GitHub: https://github.com/AlejoBI
