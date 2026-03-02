@@ -99,8 +99,6 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 <img src="https://skillicons.dev/icons?i=git,postman,jest,bash,androidstudio,arduino" />
 </p>
 
----
-
 </td>
 </tr>
 </table>
