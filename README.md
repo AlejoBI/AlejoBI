@@ -5,8 +5,8 @@ Ingeniero Informático | Backend Developer
 </p>
 
 <p align="center">
-Desarrollo de APIs REST escalables con Java (Spring Boot) y Node.js.<br>
-Interesado en arquitectura de software, sistemas distribuidos y buenas prácticas DevOps.
+Desarrollo full-stack con énfasis en backend: APIs REST escalables con Java (Spring Boot, WebFlux) y Node.js.<br>
+Experiencia en microservicios reactivos, contenedores, CI/CD, bases de datos SQL/NoSQL y optimización de performance.
 </p>
 
 ---
@@ -37,13 +37,11 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 <div align="center">
 
-<!-- Primera fila -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlejoBI&theme=default&utcOffset=5" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlejoBI&theme=default" width="48%"/>
 
 <br><br>
 
-<!-- Segunda fila -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejoBI&theme=default" width="96%"/>
 
 </div>
@@ -58,7 +56,7 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 ### Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,flask,python,c" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
 </p>
 
 </td>
@@ -66,9 +64,7 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 ### Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 </td>
@@ -76,7 +72,7 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 ### Bases de Datos
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase" />
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/>
 </p>
@@ -86,9 +82,7 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 ### DevOps e Infraestructura
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,kafka,rabbitmq,grafana" />
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,kafka,rabbitmq,grafana,prometheus" />
 </p>
 
 </td>
@@ -96,9 +90,20 @@ Interesado en arquitectura de software, sistemas distribuidos y buenas práctica
 
 ### Herramientas
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,postman,jest,bash,androidstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=git,postman,bash" />
 </p>
 
 </td>
 </tr>
 </table>
+
+---
+
+## Experiencia Destacada
+
+**Microservicios Reactivos con WebFlux y Kafka** — *Smart Financial SAS* (2025-2026)
+- Microservicios asíncronos con Spring WebFlux, Project Reactor (Flux/Mono) y R2DBC
+- Orquestación con Kubernetes, mensajería con RabbitMQ, API Gateway con Kong
+- Monitoreo con Prometheus + Grafana, pruebas de carga con JMeter
+- Documentación arquitectónica con modelo C4
+- Diagnóstico de performance JVM y detección de memory leaks
